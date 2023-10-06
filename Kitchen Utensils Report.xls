@@ -1,0 +1,2314 @@
+<table style='font-family:Calibri;'><tr style='height:30px;'><td style='text-align:center; background-color:#fff;  border-left:1px solid #333;border-right:1px solid #333; border-bottom:1px #333; color:#333; font-size:15px; font-weight:bold; vertical-align:middle;'>Report Generated on 06-Oct-2023 01:40 PM</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'><td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>Kitchen Utensils Report</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>Data on 06-Oct-2023</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>District: KURNOOL, Mandal: --ALL-- </td></tr><tr><td><style> TABLE { border: 1px solid #333; } TD { border: 1px solid #333; } TH {color: #ffffff;}</style> 
+                        <table id="tblEstablishments" class="table table-striped table-bordered table-shadow"
+                            border="0" cellpadding="0" cellspacing="0">
+                            <thead>
+                                <tr class="gridHeader">
+                                    <th class="gridHeader sorting_disabled" rowspan="2" style="font-weight: bold; background: #599dde;
+                                        color: white !important;">
+                                        Sl. No.
+                                    </th>
+                                    <th id="ContentPlaceHolder1_Repeater2_Th1" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_one" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$one&#39;,&#39;&#39;)" style="color:White;">Mandal Name<i class='fa fa-sort-up upcss' runat='server'></i></a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th3" colspan="7" style="font-weight: bold; background: #599dde;
+                                        color: white !important;">
+                                        No. Of Kits Required
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th30" colspan="7" style="font-weight: bold; background: #599dde;
+                                        color: white !important;">
+                                        No. Of Kits Received
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th4" colspan="9" style="font-weight: bold; background: #599dde;
+                                        color: white !important;">
+                                        No. Of items Received
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th5" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_four" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$four&#39;,&#39;&#39;)" style="color:White;">Updation Status</a>
+                                    </th>
+
+                                </tr>
+                                <tr class="gridHeader">
+                                    <th id="ContentPlaceHolder1_Repeater2_Th6" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_five" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$five&#39;,&#39;&#39;)" style="color:White;">A</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th7" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_six" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$six&#39;,&#39;&#39;)" style="color:White;">B</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th8" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_seven" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$seven&#39;,&#39;&#39;)" style="color:White;">C</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th9" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_eight" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$eight&#39;,&#39;&#39;)" style="color:White;">D</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th10" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_nine" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$nine&#39;,&#39;&#39;)" style="color:White;">E</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th11" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_ten" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$ten&#39;,&#39;&#39;)" style="color:White;">F</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th21" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_eleven" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$eleven&#39;,&#39;&#39;)" style="color:White;">Total Kits</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th31" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentyone" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentyone&#39;,&#39;&#39;)" style="color:White;">A</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th32" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentytwo" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentytwo&#39;,&#39;&#39;)" style="color:White;">B</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th33" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentythree" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentythree&#39;,&#39;&#39;)" style="color:White;">C</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th34" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentyfour" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentyfour&#39;,&#39;&#39;)" style="color:White;">D</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th35" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentyfive" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentyfive&#39;,&#39;&#39;)" style="color:White;">E</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th36" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentysix" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentysix&#39;,&#39;&#39;)" style="color:White;">F</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th37" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twentyseven" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twentyseven&#39;,&#39;&#39;)" style="color:White;">Total Kits</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th12" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twelve" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twelve&#39;,&#39;&#39;)" style="color:White;">Hastalu</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th13" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_thirteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$thirteen&#39;,&#39;&#39;)" style="color:White;">Steel Basins</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th14" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_fourteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$fourteen&#39;,&#39;&#39;)" style="color:White;">Cooking Vessel- 6.70Kg</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th15" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_fifteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$fifteen&#39;,&#39;&#39;)" style="color:White;">Cooking Vessel- 9.48Kg</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th16" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_sixteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$sixteen&#39;,&#39;&#39;)" style="color:White;">Cooking Vessel- 12.77Kg</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th17" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_seventeen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$seventeen&#39;,&#39;&#39;)" style="color:White;">Cooking Vessel- 17.30Kg</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th18" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_eighteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$eighteen&#39;,&#39;&#39;)" style="color:White;">Kadai-5L</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th19" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_nineteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$nineteen&#39;,&#39;&#39;)" style="color:White;">Kuripi</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th20" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twenty" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twenty&#39;,&#39;&#39;)" style="color:White;">Steel Deep Ladle</a>
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_0">1</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_0" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_0">ADONI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_0">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_0">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_0">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_0">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_0">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_0">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_0">126</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_0">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_0">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_0">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_0">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_0">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_0">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_0">126</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_0">164</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_0">164</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_0">109</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_0">81</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_0">108</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_0">62</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_0">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_0">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_0">164</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_0" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_0">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_1">2</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_1" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_1">ALUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_1">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_1">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_1">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_1">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_1">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_1">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_1">47</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_1">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_1">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_1">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_1">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_1">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_1">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_1">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_1">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_1">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_1">41</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_1">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_1">39</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_1">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_1">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_1">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_1">58</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_1" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_1">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_2">3</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_2" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_2">ASPARI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_2">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_2">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_2">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_2">52</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_2">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_2">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_2">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_2">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_2">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_2">67</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_2">67</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_2">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_2">37</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_2">41</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_2">20</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_2">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_2">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_2">67</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_2" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_2">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_3">4</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_3" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_3">C.BELAGAL</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_3">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_3">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_3">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_3">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_3">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_3">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_3">44</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_3">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_3">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_3">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_3">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_3">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_3">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_3">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_3">57</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_3">57</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_3">39</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_3">28</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_3">40</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_3">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_3">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_3">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_3">57</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_3" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_3">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_4">5</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_4" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_4">CHIPPAGIRI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_4">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_4">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_4">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_4">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_4">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_4">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_4">25</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_4">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_4">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_4">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_4">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_4">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_4">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_4">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_4">28</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_4">28</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_4">23</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_4">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_4">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_4">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_4">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_4">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_4">28</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_4" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_4">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_5">6</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_5" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_5">DEVANAKONDA</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_5">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_5">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_5">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_5">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_5">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_5">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_5">56</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_5">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_5">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_5">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_5">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_5">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_5">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_5">56</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_5">66</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_5">66</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_5">51</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_5">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_5">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_5">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_5">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_5">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_5">66</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_5" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_5">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_6">7</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_6" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_6">GONEGANDLA</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_6">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_6">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_6">30</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_6">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_6">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_6">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_6">54</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_6">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_6">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_6">30</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_6">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_6">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_6">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_6">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_6">68</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_6">68</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_6">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_6">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_6">50</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_6">20</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_6">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_6">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_6">54</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_6" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_6">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_7">8</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_7" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_7">GUDUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_7">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_7">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_7">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_7">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_7">32</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_7">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_7">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_7">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_7">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_7">32</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_7">37</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_7">37</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_7">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_7">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_7">27</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_7">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_7">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_7">37</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_7" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_7">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_8">9</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_8" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_8">HALAHARVI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_8">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_8">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_8">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_8">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_8">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_8">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_8">34</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_8">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_8">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_8">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_8">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_8">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_8">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_8">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_8">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_8">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_8">31</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_8">23</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_8">27</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_8">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_8">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_8">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_8">42</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_8" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_8">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_9">10</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_9" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_9">HOLAGUNDA</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_9">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_9">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_9">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_9">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_9">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_9">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_9">40</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_9">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_9">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_9">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_9">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_9">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_9">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_9">40</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_9">50</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_9">50</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_9">35</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_9">28</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_9">33</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_9">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_9">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_9">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_9">40</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_9" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_9">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_10">11</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_10" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_10">KALLUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_10">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_10">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_10">30</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_10">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_10">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_10">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_10">79</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_10">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_10">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_10">30</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_10">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_10">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_10">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_10">79</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_10">94</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_10">94</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_10">72</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_10">57</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_10">59</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_10">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_10">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_10">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_10">94</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_10" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_10">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_11">12</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_11" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_11">KODUMUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_11">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_11">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_11">26</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_11">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_11">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_11">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_11">52</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_11">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_11">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_11">26</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_11">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_11">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_11">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_11">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_11">61</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_11">61</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_11">45</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_11">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_11">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_11">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_11">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_11">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_11">61</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_11" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_11">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_12">13</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_12" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_12">KOSIGI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_12">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_12">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_12">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_12">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_12">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_12">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_12">47</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_12">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_12">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_12">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_12">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_12">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_12">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_12">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_12">72</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_12">72</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_12">35</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_12">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_12">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_12">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_12">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_12">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_12">72</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_12" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_12">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_13">14</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_13" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_13">KOWTHALAM</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_13">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_13">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_13">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_13">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_13">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_13">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_13">58</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_13">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_13">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_13">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_13">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_13">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_13">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_13">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_13">76</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_13">76</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_13">50</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_13">30</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_13">51</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_13">36</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_13">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_13">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_13">76</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_13" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_13">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_14">15</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_14" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_14">KRISHNAGIRI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_14">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_14">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_14">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_14">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_14">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_14">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_14">44</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_14">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_14">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_14">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_14">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_14">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_14">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_14">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_14">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_14">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_14">40</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_14">36</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_14">31</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_14">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_14">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_14">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_14">54</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_14" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_14">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_15">16</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_15" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_15">KURNOOL</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_15">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_15">36</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_15">85</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_15">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_15">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_15">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_15">191</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_15">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_15">36</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_15">85</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_15">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_15">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_15">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_15">191</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_15">218</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_15">218</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_15">173</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_15">158</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_15">136</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_15">51</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_15">27</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_15">27</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_15">218</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_15" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_15">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_16">17</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_16" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_16">MADDIKERA</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_16">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_16">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_16">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_16">25</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_16">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_16">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_16">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_16">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_16">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_16">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_16">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_16">23</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_16">20</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_16">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_16">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_16">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_16">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_16">29</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_16" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_16">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_17">18</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_17" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_17">MANTRALAYAM</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_17">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_17">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_17">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_17">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_17">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_17">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_17">47</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_17">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_17">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_17">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_17">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_17">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_17">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_17">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_17">61</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_17">61</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_17">39</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_17">31</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_17">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_17">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_17">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_17">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_17">61</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_17" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_17">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_18">19</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_18" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_18">NANDAVARAM</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_18">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_18">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_18">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_18">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_18">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_18">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_18">42</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_18">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_18">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_18">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_18">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_18">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_18">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_18">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_18">53</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_18">53</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_18">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_18">28</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_18">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_18">22</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_18">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_18">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_18">53</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_18" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_18">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_19">20</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_19" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_19">ORVAKAL</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_19">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_19">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_19">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_19">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_19">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_19">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_19">46</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_19">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_19">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_19">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_19">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_19">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_19">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_19">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_19">55</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_19">55</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_19">39</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_19">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_19">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_19">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_19">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_19">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_19">55</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_19" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_19">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_20">21</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_20" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_20">PATHIKONDA</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_20">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_20">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_20">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_20">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_20">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_20">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_20">43</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_20">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_20">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_20">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_20">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_20">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_20">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_20">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_20">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_20">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_20">39</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_20">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_20">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_20">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_20">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_20">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_20">52</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_20" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_20">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_21">22</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_21" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_21">PEDDAKADUBUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_21">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_21">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_21">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_21">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_21">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_21">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_21">42</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_21">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_21">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_21">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_21">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_21">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_21">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_21">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_21">55</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_21">55</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_21">33</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_21">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_21">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_21">22</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_21">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_21">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_21">55</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_21" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_21">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_22">23</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_22" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_22">TUGGALI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_22">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_22">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_22">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_22">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_22">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_22">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_22">63</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_22">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_22">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_22">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_22">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_22">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_22">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_22">63</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_22">68</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_22">68</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_22">60</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_22">50</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_22">32</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_22">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_22">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_22">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_22">68</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_22" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_22">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_23">24</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_23" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_23">VELDURTI</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_23">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_23">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_23">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_23">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_23">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_23">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_23">58</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_23">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_23">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_23">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_23">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_23">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_23">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_23">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_23">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_23">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_23">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_23">45</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_23">38</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_23">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_23">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_23">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_23">58</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_23" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_23">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSlNo_24">25</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_TotSchData_24" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblTotSch_24">YEMMIGANUR</span>
+                            </td>
+
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1_24">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2_24">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSCRegCCH_24">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblSTRegCCH_24">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblBCRegCCH_24">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOCRegCCH_24">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_lblOtherRegCCH_24">87</span>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label36_24">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label37_24">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label38_24">29</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label39_24">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label40_24">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label41_24">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label42_24">87</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label4_24">112</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label5_24">112</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6_24">73</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label7_24">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8_24">172</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9_24">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10_24">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label11_24">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12_24">112</span>
+                            </td>
+                            <td id="ContentPlaceHolder1_Repeater2_Label13_24" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3_24">YES</span>
+                            </td>
+
+                        </tr>
+                    
+                        <tr id="ContentPlaceHolder1_Repeater2_demo" class="gridRow thirdlevel" style="height: 40px;">
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_F_1"></span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_F_2">Total:</span>
+                                
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_totsch">123</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_RegSch">189</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_ALUMINIUM_PLATES_QUANTITY">556</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_STEEL_PLATES_QUANTITY">236</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_TOTAL_PLATES_QUANTITY">156</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_ALUMINIUM_COOK_VESSELS_QUANTITY">174</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_STEEL_COOK_VESSELS_QUANTITY">1434</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label29">123</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label30">189</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label31">556</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label32">236</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33">156</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label34">174</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label35">1434</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_TOTAL_COOK_VESSELS_QUANTITY">1755</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_ALUMINIUM_HASTALU_QUANTITY">1755</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_STEEL_HASTALU_QUANTITY">1260</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_TOTAL_HASTALU_QUANTITY">1042</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_ALUMINIUM_GARITALU_QUANTITY">1222</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_STEEL_GARITALU_QUANTITY">566</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_TOTAL_GARITALU_QUANTITY">330</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_ALUMINIUM_BUCKETS_QUANTITY">330</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_STEEL_BUCKETS_QUANTITY">1731</span>
+                            </td>
+	<td id="ContentPlaceHolder1_Repeater2_status" align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_TOTAL_BUCKETS_QUANTITY">---</span>
+                            </td>
+</tr>
+
+                        </tbody> </table>
+                    

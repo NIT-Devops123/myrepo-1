@@ -1,0 +1,107 @@
+<table style='font-family:Calibri;'><tr style='height:30px;'><td style='text-align:center; background-color:#fff;  border-left:1px solid #333;border-right:1px solid #333; border-bottom:1px #333; color:#333; font-size:15px; font-weight:bold; vertical-align:middle;'>Report Generated on 06-Oct-2023 01:10 PM</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'><td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>CHIKKI Not Provided Schools ( Commodity : CHIKKI, From Date : 06-Oct-2023 To Date : 06-Oct-2023 )</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>Data on 06-Oct-2023</td></tr><tr><td><style> TABLE { border: 1px solid #333; } TD { border: 1px solid #333; } TH {color: #ffffff;}</style> 
+                            <table id="tblEstablishments" class="table table-striped table-bordered table-shadow"
+                                border="0" cellpadding="0" cellspacing="0">
+                                <thead>
+                                    <tr class="gridHeader">
+                                        <th class="gridHeader sorting_disabled" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            Sl. No.
+                                        </th>
+                                        <th id="ContentPlaceHolder1_GvDistReport_Th1" class="gridHeader" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            <a id="ContentPlaceHolder1_GvDistReport_one" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GvDistReport$ctl00$one&#39;,&#39;&#39;)" style="color:White;">District Name<i class='fa fa-sort-up upcss' runat='server'></i></a>
+                                        </th>
+
+                                      
+                                        <th id="ContentPlaceHolder1_GvDistReport_Th3" class="gridHeader" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            <a id="ContentPlaceHolder1_GvDistReport_three" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GvDistReport$ctl00$three&#39;,&#39;&#39;)" style="color:White;">Mandal Name</a>
+                                        </th>
+
+                                        <th id="ContentPlaceHolder1_GvDistReport_Th18" class="gridHeader" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            <a id="ContentPlaceHolder1_GvDistReport_four" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GvDistReport$ctl00$four&#39;,&#39;&#39;)" style="color:White;">School Name</a>
+                                        </th>
+
+                                        <th id="ContentPlaceHolder1_GvDistReport_Th19" class="gridHeader" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            <a id="ContentPlaceHolder1_GvDistReport_five" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GvDistReport$ctl00$five&#39;,&#39;&#39;)" style="color:White;">School ID</a>
+                                        </th>
+
+                                        <th id="ContentPlaceHolder1_GvDistReport_Th16" class="gridHeader" rowspan="1" style="background-color: #599dde;
+                                            color: White;">
+                                            <a id="ContentPlaceHolder1_GvDistReport_six" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$GvDistReport$ctl00$six&#39;,&#39;&#39;)" style="color:White;">HM Contact Details</a>
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                        
+                            <tr class="gridRow" style="height: 40px;">
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSlNo_0">1</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblDistName_0" OnClientClick="jsPageLoad()">KURNOOL</span>
+                                </td>
+                              
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblBName_0">KURNOOL</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSName_0">MADARASA -E-MUZAMMIL ALISHARE BAGH</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSId_0">28210791463</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblChikkiReq_0">7799384590</span>
+                                </td>
+                            </tr>
+                        
+                            <tr class="gridRow" style="height: 40px;">
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSlNo_1">2</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblDistName_1" OnClientClick="jsPageLoad()">KURNOOL</span>
+                                </td>
+                              
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblBName_1">ADONI</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSName_1">ZPHS P.HARIVARAM</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSId_1">28212300303</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblChikkiReq_1">9398802161</span>
+                                </td>
+                            </tr>
+                        
+                            <tr class="gridRow" style="height: 40px;">
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSlNo_2">3</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblDistName_2" OnClientClick="jsPageLoad()">KURNOOL</span>
+                                </td>
+                              
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblBName_2">TUGGALI</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSName_2">MPPS K.P.GUDESELU</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblSId_2">28215000803</span>
+                                </td>
+                                <td align="center" style="width: 6%;">
+                                    <span id="ContentPlaceHolder1_GvDistReport_lblChikkiReq_2">9985298537</span>
+                                </td>
+                            </tr>
+                        
+                            </tbody> </table>
+                        
