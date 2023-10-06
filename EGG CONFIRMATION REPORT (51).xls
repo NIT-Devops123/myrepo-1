@@ -1,0 +1,1531 @@
+<table style='font-family:Calibri;'><tr style='height:30px;'><td style='text-align:center; background-color:#fff;  border-left:1px solid #333;border-right:1px solid #333; border-bottom:1px #333; color:#333; font-size:15px; font-weight:bold; vertical-align:middle;'>Report Generated on 06-Oct-2023 10:47 AM</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'><td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>EGG CONFIRMATION REPORT</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>Data on 06-Oct-2023</td></tr><tr><td><table style='font-family:Calibri;'><tr style='height:50px;'> <td style='text-align:center; background-color:white; color:#333; font-size:18px; font-weight:bold;border-top:1px solid #333; border-left:1px solid #333;border-right:1px solid #333; vertical-align:middle;'>District: KURNOOL, Mandal: --ALL-- , Year:2023, Month:August</td></tr><tr><td><style> TABLE { border: 1px solid #333; } TD { border: 1px solid #333; } TH {color: #ffffff;}</style> 
+                        <table id="tblEstablishments" class="table table-striped table-bordered table-shadow"
+                            border="0" cellpadding="0" cellspacing="0">
+                            <thead>
+                                <tr class="gridHeader">
+                                    <th class="gridHeader sorting_disabled" rowspan="2" style="font-weight: bold; background: #599dde;
+                                        text-align: center; color: white !important;">
+                                        Sl. No.
+                                    </th>
+                                    <th id="ContentPlaceHolder1_Repeater2_Th1" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        text-align: center; background: #599dde; color: white !important; width: 7%;">
+                                        <a id="ContentPlaceHolder1_Repeater2_one" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$one&#39;,&#39;&#39;)" style="color:White;">District Name<i class='fa fa-sort-up upcss' runat='server'></i></a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th16" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        text-align: center; background: #599dde; color: white !important; width: 7%;">
+                                        <a id="ContentPlaceHolder1_Repeater2_two" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$two&#39;,&#39;&#39;)" style="color:White;">Mandal</a>
+                                    </th>
+
+                                     <th id="ContentPlaceHolder1_Repeater2_Th18" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_sixteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$sixteen&#39;,&#39;&#39;)" style="color:White;">Total No of Schools</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th6" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_three" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$three&#39;,&#39;&#39;)" style="color:White;">No of Schools Confirmed by HM</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th3" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        text-align: center; background: #599dde; color: white !important; width: 7%;">
+                                        <a id="ContentPlaceHolder1_Repeater2_four" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$four&#39;,&#39;&#39;)" style="color:White;">No of Schools not confirmed by HM</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th4" colspan="5" style="font-weight: bold; background: #599dde;
+                                        color: white !important;">
+                                        Phase Wise Eggs Confirmed by HM
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th8" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_five" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$five&#39;,&#39;&#39;)" style="color:White;">No of Schools Acknowledgment generated by MEO</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th2" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        text-align: center; background: #599dde; color: white !important; width: 7%;">
+                                        <a id="ContentPlaceHolder1_Repeater2_six" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$six&#39;,&#39;&#39;)" style="color:White;">No of Schools Acknowledgment Not generated by MEO</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th5" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_seven" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$seven&#39;,&#39;&#39;)" style="color:White;">Total No of Eggs Confirmed MEO</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th9" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_eight" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$eight&#39;,&#39;&#39;)" style="color:White;">No of Schools Acknowledgment generated by DEO</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th10" class="gridHeader" rowspan="2" style="font-weight: bold;
+                                        text-align: center; background: #599dde; color: white !important; width: 7%;">
+                                        <a id="ContentPlaceHolder1_Repeater2_nine" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$nine&#39;,&#39;&#39;)" style="color:White;">No of Schools Acknowledgment Not generated by DEO</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th11" class="gridHeader" rowspan="2" style="background-color: #599dde;
+                                        color: White;">
+                                        <a id="ContentPlaceHolder1_Repeater2_ten" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$ten&#39;,&#39;&#39;)" style="color:White;">Total No of Eggs Confirmed DEO</a>
+                                    </th>
+
+                                </tr>
+                                <tr class="gridHeader">
+                                    <th id="ContentPlaceHolder1_Repeater2_Th14" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_eleven" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$eleven&#39;,&#39;&#39;)" style="color:White;">Phase I</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th7" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_twelve" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$twelve&#39;,&#39;&#39;)" style="color:White;">Phase II</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th12" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_thirteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$thirteen&#39;,&#39;&#39;)" style="color:White;">Phase III</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th13" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_fourteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$fourteen&#39;,&#39;&#39;)" style="color:White;">Phase IV</a>
+                                    </th>
+
+                                    <th id="ContentPlaceHolder1_Repeater2_Th15" class="gridHeader" rowspan="1" style="font-weight: bold;
+                                        background: #599dde; color: white !important;">
+                                        <a id="ContentPlaceHolder1_Repeater2_fifteen" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl00$fifteen&#39;,&#39;&#39;)" style="color:White;">Total</a>
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_0">1</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_0">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_0" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl01$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">ADONI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_0">126</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_0">126</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_0" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl01$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_0">127134</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_0">70521</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_0">69734</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_0">16711</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_0">284100</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_0">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_0" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl01$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">126</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_0">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_0">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_0" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl01$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_0">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_1">2</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_1">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_1" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl02$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">ALUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_1">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_1">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_1" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl02$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_1">40409</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_1">40245</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_1">47361</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_1">44259</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_1">172274</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_1">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_1" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl02$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_1">172274</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_1">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_1" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl02$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">47</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_1">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_2">3</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_2">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_2" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl03$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">ASPARI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_2">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_2">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_2" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl03$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_2">28622</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_2">27087</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_2">19182</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_2">18691</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_2">93582</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_2">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_2" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl03$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">52</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_2">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_2">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_2" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl03$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_2">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_3">4</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_3">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_3" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl04$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">C.BELAGAL</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_3">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_3">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_3" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl04$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_3">45465</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_3">44965</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_3">54158</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_3">54758</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_3">199346</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_3">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_3" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl04$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_3">199346</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_3">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_3" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl04$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">44</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_3">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_4">5</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_4">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_4" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl05$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">CHIPPAGIRI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_4">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_4">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_4" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl05$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_4">13510</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_4">12086</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_4">10735</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_4">11842</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_4">48173</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_4">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_4" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl05$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_4">48173</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_4">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_4" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl05$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">25</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_4">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_5">6</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_5">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_5" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl06$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">DEVANAKONDA</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_5">56</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_5">56</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_5" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl06$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_5">46835</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_5">44505</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_5">55436</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_5">56274</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_5">203050</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_5">56</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_5" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl06$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_5">203050</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_5">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_5" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl06$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">56</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_5">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_6">7</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_6">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_6" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl07$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">GONEGANDLA</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_6">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_6">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_6" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl07$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_6">53718</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_6">40575</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_6">26443</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_6">27679</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_6">148415</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_6">54</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_6" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl07$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_6">148415</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_6">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_6" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl07$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">54</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_6">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_7">8</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_7">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_7" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl08$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">GUDUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_7">32</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_7">32</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_7" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl08$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_7">19120</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_7">18360</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_7">25062</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_7">13792</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_7">76334</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_7">32</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_7" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl08$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_7">76334</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_7">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_7" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl08$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">32</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_7">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_8">9</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_8">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_8" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl09$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">HALAHARVI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_8">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_8">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_8" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl09$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_8">25305</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_8">23165</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_8">19382</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_8">13034</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_8">80886</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_8">34</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_8" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl09$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_8">80886</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_8">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_8" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl09$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">34</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_8">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_9">10</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_9">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_9" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl10$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">HOLAGUNDA</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_9">40</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_9">40</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_9" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl10$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_9">38272</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_9">22893</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_9">20557</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_9">15369</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_9">97091</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_9">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_9" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl10$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">40</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_9">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_9">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_9" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl10$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_9">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_10">11</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_10">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_10" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl11$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KALLUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_10">79</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_10">79</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_10" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl11$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_10">55760</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_10">65143</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_10">58542</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_10">61498</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_10">240943</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_10">79</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_10" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl11$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_10">240943</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_10">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_10" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl11$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">79</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_10">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_11">12</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_11">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_11" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl12$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KODUMUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_11">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_11">52</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_11" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl12$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_11">39645</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_11">31541</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_11">40692</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_11">30349</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_11">142227</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_11">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_11" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl12$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">52</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_11">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_11">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_11" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl12$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_11">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_12">13</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_12">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_12" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl13$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KOSIGI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_12">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_12">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_12" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl13$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_12">68954</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_12">41162</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_12">26224</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_12">29600</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_12">165940</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_12">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_12" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl13$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">47</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_12">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_12">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_12" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl13$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_12">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_13">14</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_13">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_13" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl14$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KOWTHALAM</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_13">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_13">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_13" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl14$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_13">73156</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_13">31670</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_13">20814</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_13">5767</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_13">131407</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_13">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_13" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl14$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">58</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_13">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_13">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_13" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl14$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_13">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_14">15</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_14">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_14" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl15$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KRISHNAGIRI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_14">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_14">44</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_14" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl15$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_14">35600</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_14">25890</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_14">26211</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_14">14478</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_14">102179</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_14">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_14" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl15$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">44</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_14">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_14">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_14" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl15$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_14">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_15">16</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_15">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_15" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl16$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">KURNOOL</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_15">191</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_15">185</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_15" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl16$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">6</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_15">102199</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_15">102461</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_15">105597</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_15">85828</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_15">396085</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_15">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_15" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl16$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">185</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_15">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_15">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_15" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl16$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_15">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_16">17</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_16">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_16" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl17$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">MADDIKERA</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_16">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_16">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_16" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl17$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_16">17928</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_16">16116</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_16">8250</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_16">5790</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_16">48084</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_16">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_16" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl17$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">25</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_16">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_16">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_16" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl17$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_16">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_17">18</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_17">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_17" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl18$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">MANTRALAYAM</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_17">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_17">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_17" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl18$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_17">51605</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_17">44950</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_17">24080</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_17">24080</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_17">144715</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_17">47</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_17" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl18$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_17">144715</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_17">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_17" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl18$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">47</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_17">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_18">19</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_18">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_18" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl19$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">NANDAVARAM</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_18">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_18">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_18" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl19$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_18">41010</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_18">39535</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_18">33502</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_18">25763</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_18">139810</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_18">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_18" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl19$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_18">139810</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_18">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_18" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl19$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">42</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_18">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_19">20</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_19">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_19" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl20$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">ORVAKAL</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_19">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_19">46</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_19" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl20$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_19">34448</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_19">35105</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_19">39555</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_19">38641</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_19">147749</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_19">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_19" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl20$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">46</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_19">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_19">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_19" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl20$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_19">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_20">21</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_20">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_20" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl21$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">PATHIKONDA</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_20">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_20">43</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_20" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl21$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_20">42021</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_20">27050</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_20">17909</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_20">12213</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_20">99193</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_20">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_20" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl21$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">43</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_20">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_20">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_20" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl21$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_20">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_21">22</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_21">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_21" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl22$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">PEDDAKADUBUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_21">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_21">42</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_21" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl22$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_21">44514</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_21">27867</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_21">33017</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_21">541</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_21">105939</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_21">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_21" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl22$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">42</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_21">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_21">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_21" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl22$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_21">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_22">23</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_22">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_22" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl23$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">TUGGALI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_22">63</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_22">63</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_22" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl23$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_22">40288</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_22">37793</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_22">26279</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_22">30673</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_22">135033</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_22">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_22" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl23$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">63</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_22">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_22">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_22" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl23$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_22">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_23">24</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_23">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_23" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl24$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">VELDURTI</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_23">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_23">58</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_23" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl24$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_23">32509</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_23">27922</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_23">28156</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_23">29308</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_23">117895</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_23">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_23" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl24$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">58</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_23">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_23">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_23" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl24$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_23">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr class="gridRow" style="height: 40px;">
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl1_24">25</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label24_24">KURNOOL</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a onclick="jsPageLoad();" id="ContentPlaceHolder1_Repeater2_lblDistName_24" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl25$lblDistName&#39;,&#39;&#39;)" style="color:#337AB7;">YEMMIGANUR</a>
+                                
+                            </td>
+                             <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label33_24">87</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl3_24">87</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmCon_24" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl25$lblHmCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                              <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Lbl6_24">88452</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label19_24">63344</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label20_24">65142</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label21_24">52807</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label22_24">269745</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label23_24">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton9_24" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl25$LinkButton9&#39;,&#39;&#39;)" style="color:#337AB7;">87</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label25_24">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label26_24">0</span>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_lblHmNtCon_24" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl25$lblHmNtCon&#39;,&#39;&#39;)" style="color:#337AB7;">0</a>
+                            </td>
+                            <td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label28_24">0</span>
+                            </td>
+                        </tr>
+                    
+                        <tr id="ContentPlaceHolder1_Repeater2_demo" class="gridRow thirdlevel" style="height: 40px;">
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label1"></span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label27"></span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label2">Total</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label34">1434</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label3">1428</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_Label4" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl26$Label4&#39;,&#39;&#39;)" style="color:Blue;">6</a>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label6">1206479</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label8">961951</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label9">902020</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label10">719745</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label12">3790195</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label13">460</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton13" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl26$LinkButton13&#39;,&#39;&#39;)" style="color:Blue;">968</a>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label15">1453946</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label16">0</span>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <a id="ContentPlaceHolder1_Repeater2_LinkButton12" "javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$Repeater2$ctl26$LinkButton12&#39;,&#39;&#39;)" style="color:Blue;">460</a>
+                            </td>
+	<td align="center" style="width: 6%;">
+                                <span id="ContentPlaceHolder1_Repeater2_Label18">0</span>
+                            </td>
+</tr>
+
+                        </tbody> </table>
+                    
